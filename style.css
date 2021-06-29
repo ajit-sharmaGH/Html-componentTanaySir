@@ -1,16 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
-body {
-    font-family: 'Roboto Mono', monospace;
+/* .container {
+    padding: 4rem 1rem;
+} */
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.link-primary {
+    background-color: blue;
+    border-radius: 1rem;
+    color: white
+}
+
+.link-secondary {
+    background-color: yellowgreen;
+    border-radius: 2rem;
+    color: black
 }
 
 h1 {
-    color: blue
+    color: tomato
 }
 
 h2 {
-    color: green
+    color: yellowgreen
 }
 
 .para {
-    color: blueviolet
+    color: teal
 }
